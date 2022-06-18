@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P4sTela&theme=dark)
 
-![ghpages](https://p4stela.github.io/react-ghpages/)
+[ghpages](https://p4stela.github.io/react-ghpages/)
